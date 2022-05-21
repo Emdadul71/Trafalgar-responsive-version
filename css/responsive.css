@@ -1,0 +1,241 @@
+@media only screen and (max-width: 667px) {
+    .article{
+        width: 70%;
+        margin: auto;
+        margin-bottom: 40px;
+    }
+    .article_img img{
+        width: 100%;
+        display: block;
+    }
+    .footer-direction{
+        flex-direction: column-reverse;
+        margin-bottom: 10px;
+    }
+    .footer-sm{
+        width: 100%;
+        margin: auto;
+    }
+
+    .footer-section{
+        padding-top: 40px;
+    }
+    .footer-logo{
+        margin-top: 20px;
+    }
+    .w-30{
+        text-align: center;
+    }
+    .leading-sm{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        padding: 0px 5px;
+    }
+    .leading-sm h3{
+        margin-top: 30px;
+        margin-bottom: 25px;
+    }
+
+    .empty-2 {
+        border-top: 2px solid black;
+        width: 60px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        margin: auto;
+    }
+    .mvg-img{
+        width: 40%;
+        margin: auto;
+    }
+    .leading-img {
+        width: 100%;
+        margin: auto;
+    }
+
+    .download-parent{
+        text-align: center;
+    }
+    .leading-img img{
+        width: 100%;
+    }
+    .download-parent h3{
+        width: 100%;
+        font-size: 24px;
+    }
+    .download-parent h4{
+        font-size: 18px;
+        margin-top: 10px;
+    }
+    .leading-parent h4{
+        text-align: center;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .leading-parent{
+        padding: 0;
+    }
+
+    .virtual-parent{
+        margin-bottom: 30px;
+    }
+    .virtual-parent h1{
+        text-align: center;
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .virtual-text h4{
+        text-align: center;
+        font-size: 18px;
+        line-height: 30px;
+        margin: 25px 0px;
+    }
+    .virtual-text button {
+        text-align: center;
+    }
+    .virtual-sm{
+        text-align: center;
+    }
+  }
+
+  @media only screen and (max-width: 488px) {
+    .article{
+        width: 100%;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    .virtual-sm{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .footer-sm{
+        width: 70%;
+        margin: auto;
+    }
+    .virtual-parent{
+        width: 100%;
+        margin: auto;
+        margin-bottom: 40px;
+    }
+    .leading-parent h3{
+        text-align: center;
+        font-size: 36px;
+        line-height: 56px;
+    }
+    .leading-parent h4{
+        text-align: center;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .empty-2{
+        width: 40%;
+        margin: auto;
+        overflow: hidden;
+    }
+
+    .leading-parent{
+        width: 100%;
+        margin: auto;
+    }
+    
+    .leading-sm{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        
+    }
+    .leading-sm h3{
+        font-size: 20px;
+        line-height: 25px;
+        margin-top: 30px;
+    }
+    .leading-parent{
+        padding: 0;
+    }
+    .virtual-sm{
+        width: 70%;
+        margin: auto;
+    }
+    .footer-direction{
+        flex-direction: column-reverse;
+        margin-bottom: 10px;
+    }
+
+    .footer-section{
+        padding-top: 40px;
+    }
+    .footer-section-heading {
+        color: #ffffff;
+        font-family: 'Mulish';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 60px;
+    }
+
+    .article{
+        width: 100%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+
+    .virtual-parent h1{
+        text-align: center;
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .virtual-text h4{
+        text-align: center;
+        font-size: 16px;
+        line-height: 30px;
+        margin: 25px 0px;
+    }
+    .virtual-text button{
+        text-align: center;
+    }
+
+    .leading-img{
+        width: 80%;
+        margin: auto;
+    }
+    .leading-img img{
+        width: 100%;
+    }
+
+    .virtual-btn{
+        width: 80%;
+        margin: auto;
+    }
+    .btn-1{
+        width: 90%;
+        margin: auto;
+    }
+
+    .w-30{
+        text-align: center;
+    }
+    .mvg-img{
+        width: 40%;
+        margin: auto;
+    }
+
+    .download-parent{
+        text-align: center;
+    }
+    .service-text h2{
+        font-size: 24px;
+    }
+    .download-parent h3{
+        width: 100%;
+        font-size: 20px;
+    }
+    .download-parent h4{
+        font-size: 16px;
+        margin-top: 10px;
+    }
+}
