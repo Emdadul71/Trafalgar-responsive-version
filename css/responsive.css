@@ -62,7 +62,7 @@
     }
     .download-parent h3{
         width: 100%;
-        font-size: 24px;
+        font-size: 28px;
     }
     .download-parent h4{
         font-size: 18px;
@@ -250,9 +250,13 @@
     }
     .m-top{
         margin-top: 0px;
+        margin-bottom: 0px;
     }
 
-    .flext-direction{
+    .flex-direction{
         flex-direction: column-reverse;
+    }
+    .carusol-section {
+        margin-top: 40px;
     }
 }
