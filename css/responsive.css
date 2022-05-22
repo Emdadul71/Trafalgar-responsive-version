@@ -149,7 +149,7 @@
         
     }
     .leading-sm h3{
-        font-size: 20px;
+        font-size: 24px;
         line-height: 25px;
         margin-top: 30px;
     }
@@ -185,7 +185,7 @@
 
     .virtual-parent h1{
         text-align: center;
-        font-size: 20px;
+        font-size: 24px;
         line-height: 30px;
     }
 
@@ -237,5 +237,12 @@
     .download-parent h4{
         font-size: 16px;
         margin-top: 10px;
+    }
+    .download-section{
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .m-top{
+        margin-top: 0px;
     }
 }
