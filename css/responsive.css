@@ -55,6 +55,7 @@
 
     .download-parent{
         text-align: center;
+        margin-top: 50px;
     }
     .leading-img img{
         width: 100%;
@@ -82,7 +83,7 @@
     }
     .virtual-parent h1{
         text-align: center;
-        font-size: 24px;
+        font-size: 28px;
         line-height: 30px;
     }
 
@@ -97,6 +98,9 @@
     }
     .virtual-sm{
         text-align: center;
+    }
+    .flext-direction{
+        flex-direction: column-reverse;
     }
   }
 
@@ -226,6 +230,7 @@
 
     .download-parent{
         text-align: center;
+        margin-top: 50px;
     }
     .service-text h2{
         font-size: 24px;
@@ -244,5 +249,9 @@
     }
     .m-top{
         margin-top: 0px;
+    }
+
+    .flext-direction{
+        flex-direction: column-reverse;
     }
 }
