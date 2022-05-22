@@ -159,6 +159,7 @@
     }
     .leading-parent{
         padding: 0;
+        margin-bottom: 30px;
     }
     .virtual-sm{
         width: 70%;
